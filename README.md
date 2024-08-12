@@ -1,5 +1,22 @@
 # summory-project
 
+pre installed libraries for backend application :-
+  -> pip3 install flask
+  -> pip3 install transformers
+  -> pip3 install flask_cors
+  -> pip3 install docx
+  -> pip3 install PyPDF2
+for frontend install :- 
+  -> npm 
+  -> nodejs
+  -> react
+
+How To Run :-
+ - First need to run backend application
+    command - python3 app.py
+ - Second run front end application
+    command - npm start
+
 The application is built with a Flask backend and a React frontend. The backend uses the transformers library for text summarization, leveraging pre-trained models.
 
 Backend (Flask)
